@@ -1,0 +1,29 @@
+{
+  "name" : "Hermann",
+  "surname" : "Mustermsann",
+  "gender" : "male",
+  "achievements" : [
+    {
+      "type" : "Weltcup",
+      "rank" : 1,
+      "time_in_milliseconds" : 123456,
+      "event" : {
+        "eventname" : "Weltcup2017",
+        "discipline" : "Abfahrt",
+        "location" : "Kotzbuehl",
+        "run" : "second",
+        "date" : ISODate("2017-11-02T23:00:00.000Z")
+      }
+    }
+  ],
+  "sponsored_by" : [
+    "Raiffeisen",
+    "Atomic"
+  ],
+  "disciplines" : [
+    "Abfahrt",
+    "Super-G"
+  ],
+  "date_of_birth" : ISODate("1983-06-10T20:49:19.199Z")
+}
+

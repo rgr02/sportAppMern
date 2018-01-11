@@ -1,0 +1,7 @@
+{
+    "_id" : ObjectId("5a466dd79a3d0ebe7858a08f"),
+    "eventname" : "Test",
+    "discipline" : "Super-G",
+    "location" : "O1",
+    "date" : ISODate("2017-11-02T23:00:00.000Z")
+}

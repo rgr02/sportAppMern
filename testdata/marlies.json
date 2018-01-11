@@ -1,0 +1,28 @@
+{
+  "name" : "Marlies",
+  "surname" : "Musterfrau",
+  "gender" : "female",
+  "achievements" : [
+    {
+      "type" : "Weltcup",
+      "rank" : 2,
+      "time_in_milliseconds" : 12343,
+      "event" : {
+        "eventname" : "Weltcup2017",
+        "discipline" : "Super-G",
+        "location" : "Kitzbuehl",
+        "run" : "first",
+        "date" : ISODate("2017-11-02T23:00:00.000Z")
+      }
+    }
+  ],
+  "sponsored_by" : [
+    "Erste Bank",
+    "Atomic"
+  ],
+  "disciplines" : [
+    "Slalom",
+    "Super-G"
+  ],
+  "date_of_birth" : ISODate("1997-04-12T20:49:19.199Z")
+}
